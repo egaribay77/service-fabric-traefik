@@ -7,9 +7,9 @@ import (
 	"runtime"
 	"syscall"
 
-	disco "github.com/microsoft/service-fabric-traefik/serviceFabricDiscoveryService/pkg/discovery"
-	restapi "github.com/microsoft/service-fabric-traefik/serviceFabricDiscoveryService/pkg/restapi"
-	version "github.com/microsoft/service-fabric-traefik/serviceFabricDiscoveryService/version"
+	disco "github.com/egaribay77/service-fabric-traefik/serviceFabricDiscoveryService/pkg/discovery"
+	restapi "github.com/egaribay77/service-fabric-traefik/serviceFabricDiscoveryService/pkg/restapi"
+	version "github.com/egaribay77/service-fabric-traefik/serviceFabricDiscoveryService/version"
 
 	log "github.com/sirupsen/logrus"
 	cli "github.com/urfave/cli/v2"
